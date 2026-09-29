@@ -14,8 +14,8 @@ alertmanager:
         - to: g.prasanth532@gmail.com
           from: kkeducationblr@gmail.com # Update your from mail id here
           smarthost: smtp.gmail.com:587
-          auth_username: kkeducationblr@gmail.com # Update your from mail id here
-          auth_identity: kkeducationblr@gmail.com # Update your from mail id here
+          auth_username: upparagovindu620@gmail.com # Update your from mail id here
+          auth_identity: upparagovindu620@gmail.com # Update your from mail id here
           auth_password: knzvhdyfkjfxuhjr # app password here
           send_resolved: true
           headers:
